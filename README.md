@@ -5,7 +5,7 @@
 ## Installation
 ### NPM
 ```sh
-npm install --save hammerjs
+npm install --save hammerjs or npm i --save hammerjs
 ```
 
 **or**
